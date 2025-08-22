@@ -36,20 +36,13 @@ This project bridges that gap by giving users a **“Visualize Test Case”** ex
 
 ---
 
-## Tech Stack  
-- **Frontend:** React + D3.js (visualizations) + Monaco Editor (code editor).  
-- **Backend (future):** Python/Flask or Node.js for sandboxed code execution & grading.  
-- **Execution Logging:** Custom `Visualizer` API to capture state changes.  
-
----
-
 ## Roadmap  
 - [ ] Support arrays & basic sorting algorithms.  
 - [ ] Add linked list visualization (insert, delete, swap nodes).  
 - [ ] Add BST visualization (insert/delete, highlight rotations).  
 - [ ] Allow test case replay for failed inputs.  
 - [ ] Sandbox arbitrary student code safely.  
-- [ ] Browser extension to integrate with LeetCode/HackerRank.  
+- [ ] Browser extension to integrate with LeetCode.  
 
 ---
 
@@ -58,13 +51,8 @@ Contributions are welcome! You can help by:
 - Adding new data structures/algorithms.  
 - Improving visualizations and animations.  
 - Expanding test case coverage.  
-- Enhancing UI/UX.  
-
----
-
-## Demo (Coming Soon)  
-Screenshots / GIFs of visualizations will be added here.  
-
+- Enhancing UI/UX.
+  
 ---
 
 ## License  
